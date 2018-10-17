@@ -166,10 +166,6 @@ Commodity Trading
 }
 可以单击 Commodity 注册表来验证新的所有者。也可以选择 All Transactions 注册表来查看所有交易。
 
-交易视图示例：
-
-
-
 5. 将 Business Network Archive 部署到在本地运行的 Hyperledger Composer 上（可选部署方法）
 将业务网络部署到 Hyperledger Fabric 需要将 Hyperledger Composer 链代码安装在对等节点上，然后必须将业务网络归档文件 (.bna) 发送给该对等节点，而且必须创建一个新参与者、身份和关联卡作为网络管理员。最后，必须导入网络管理员业务网络卡供使用，然后对该网络执行 ping 操作来检查它是否会响应。
 
